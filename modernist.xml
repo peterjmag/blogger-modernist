@@ -258,7 +258,6 @@ code {
 
 #content {
         width: 570px;
-        padding: 15px 0;
         float: left;
 }
 
@@ -266,7 +265,7 @@ code {
 
 .post,
 .page {
-        margin: 0 0 100px 0;
+        margin: 0 0 4em 0;
         height: 1%;
 }
 
@@ -752,7 +751,6 @@ h3#reply-title {
 
 #sidebar {
         width: 270px;
-        padding: 15px 0 20px;
         font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
         font-size: 1.1em;
         line-height: 1.5;
