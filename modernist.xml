@@ -93,7 +93,6 @@ table {
 
 body {
         font-family: "skolar-1", "skolar-2", Georgia, "Times New Roman", serif;
-        font-size: 75%;
         background-image: url(http://2.bp.blogspot.com/_rKLBTcXIDJY/TSKQ9mxizLI/AAAAAAAAAIo/lSDoEfwRaZQ/s000/bg.gif);
         background-repeat: repeat;
         background-position: top left;
@@ -111,7 +110,6 @@ img {
 
 p {
         margin: 0 0 1.4em 0;
-        font-size: 1.4em;
         line-height: 1.65;
 }
 
@@ -176,7 +174,7 @@ code {
 }
 
 #header h1 {
-        font-size: 4.8em;
+        font-size: 3.5em;
         font-weight: normal;
 }
 
@@ -281,13 +279,13 @@ code {
 .post h1,
 .post h2 {
         margin: 1.5em 0 .5em 0;
-        font-size: 2em;
+        font-size: 1.75em;
         color: #333;
 }
 
 .post h3 {
         margin: 2em 0 .5em 0;
-        font-size: 1.7em;
+        font-size: 1.25em;
         color: #333;
 }
 
@@ -295,13 +293,12 @@ code {
 .post h5,
 .post h6 {
         margin: 2em 0 .5em 0;
-        font-size: 1.4em;
+        font-size: 1em;
         color: #333;
 }
 
 .post table {
         width: 100%;
-        font-size: 1.4em;
         line-height: 1.65;
         border-collapse: collapse;
 }
@@ -319,13 +316,8 @@ code {
         border-bottom: 1px solid #ddd;
 }
 
-.post dl {
-        margin: 0 0 1.4em 0;
-}
-
 .post dt {
         margin-top: 1.4em;
-        font-size: 1.4em;
         line-height: 1.65;
         font-weight: bold;
 }
@@ -356,7 +348,6 @@ code {
 }
 
 .post address {
-        font-size: 1.4em;
         line-height: 1.65;
         margin: 0 0 1.4em 0;
 }
@@ -386,7 +377,6 @@ code {
 
 /* Hack to make the 'Div and Span Tests' unit test look better */
 div.myclass strong {
-        font-size: 1.4em;
         line-height: 1.65;
 }
 
@@ -394,7 +384,6 @@ div.myclass strong {
         margin-left: 30px;
         padding-left: 15px;
         border-left: 2px solid #ddd;
-        font-size: 1.4em;
         line-height: 1.65;
 }
 
@@ -410,7 +399,7 @@ div.myclass strong {
 
 .post-header h2 {
         margin: 0;
-        font-size: 2.8em;
+        font-size: 2.25em;
         font-weight: normal;
         color: #333;
 }
@@ -422,7 +411,7 @@ div.myclass strong {
 
 .post-header h3 {
         margin: 0 !important;
-        font-size: 2em;
+        font-size: 1.5em;
         line-height: 1.4;
         font-weight: normal;
 }
@@ -523,7 +512,7 @@ div.myclass strong {
 h3#comments-title,
 h3#reply-title {
         margin-bottom: 1em;
-        font-size: 2.8em;
+        font-size: 2.25em;
         font-weight: normal;
         color: #21759B;
 }
