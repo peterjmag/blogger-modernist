@@ -110,7 +110,7 @@ img {
 
 p {
         margin: 0 0 1.4em 0;
-        line-height: 1.65;
+        line-height: 1.5;
 }
 
 a {
@@ -381,10 +381,11 @@ div.myclass strong {
 }
 
 .post blockquote {
-        margin-left: 30px;
-        padding-left: 15px;
+        padding-left: 20px;
         border-left: 2px solid #ddd;
-        line-height: 1.65;
+        font-size: 0.875em;
+        line-height: 1.5;
+        margin: 0 0 1.4em;
 }
 
 .post img {
