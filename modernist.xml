@@ -44,7 +44,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 body {
         font-family: "skolar-1", "skolar-2", Georgia, "Times New Roman", serif;
-        font-size: 62.5%;
+        font-size: 75%;
         background-image: url(http://2.bp.blogspot.com/_rKLBTcXIDJY/TSKQ9mxizLI/AAAAAAAAAIo/lSDoEfwRaZQ/s000/bg.gif);
         background-repeat: repeat;
         background-position: top left;
