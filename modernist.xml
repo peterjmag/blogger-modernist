@@ -900,7 +900,7 @@ img.alignnone {
     <div id='header-wrapper'>
       <div id='nav'>
         <b:section id='pages' showaddelement='yes'>
-<b:widget id='PageList1' locked='false' title='' type='PageList'>
+<b:widget id='PageList1' locked='false' title='Pages' type='PageList'>
 <b:includable id='main'>
   <b:if cond='data:title'><h2><data:title/></h2></b:if>
   <div class='widget-content'>
@@ -921,7 +921,7 @@ img.alignnone {
       </div>
       <div id='header'>
         <b:section id='header1' maxwidgets='1' showaddelement='no'>
-<b:widget id='Header1' locked='true' title='Demo - Modernist (Header)' type='Header'>
+<b:widget id='Header1' locked='true' title='Reading and the Web (Header)' type='Header'>
 <b:includable id='title'>
   <a expr:href='data:blog.homepageUrl'><data:title/></a>
 </b:includable>
@@ -1734,8 +1734,8 @@ img.alignnone {
 
   </div>
 
-  <script type="text/javascript" src="http://use.typekit.com/bya0ksb.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <script src='http://use.typekit.com/bya0ksb.js' type='text/javascript'/>
+  <script type='text/javascript'>try{Typekit.load();}catch(e){}</script>
 
 </body>
 </html>
