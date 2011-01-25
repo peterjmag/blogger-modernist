@@ -43,7 +43,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 /* -------------------------------- [ General Elements ] */
 
 body {
-        font-family: Georgia, "Times New Roman", serif;
+        font-family: "skolar-1", "skolar-2", Georgia, "Times New Roman", serif;
         font-size: 62.5%;
         background-image: url(http://2.bp.blogspot.com/_rKLBTcXIDJY/TSKQ9mxizLI/AAAAAAAAAIo/lSDoEfwRaZQ/s000/bg.gif);
         background-repeat: repeat;
@@ -607,7 +607,7 @@ h3#reply-title {
 .comment-form td input {
         width: 280px;
         padding: 6px;
-        font-family: Georgia, "Times New Roman", serif;
+        font-family: "skolar-1", "skolar-2", Georgia, "Times New Roman", serif;
         font-size: 1.3em;
         border-left: 1px solid #999;
         border-top: 1px solid #999;
@@ -619,7 +619,7 @@ h3#reply-title {
 .comment-form td textarea {
         width: 360px;
         padding: 6px;
-        font-family: Georgia, "Times New Roman", serif;
+        font-family: "skolar-1", "skolar-2", Georgia, "Times New Roman", serif;
         font-size: 1.3em;
         line-height: 1.65;
         font-weight: 300;
@@ -633,7 +633,7 @@ h3#reply-title {
 #submit {
         width: auto;
         padding: 6px 10px;
-        font-family: Georgia, "Times New Roman", serif;
+        font-family: "skolar-1", "skolar-2", Georgia, "Times New Roman", serif;
         font-size: 1.3em;
         font-weight: bold;
         background: transparent url(http://1.bp.blogspot.com/_rKLBTcXIDJY/TSKQ-Xi_4UI/AAAAAAAAAIw/tA0vtNxBqWw/s000/bg-button.png) repeat-x 0 50%;
@@ -715,7 +715,7 @@ h3#reply-title {
 
 #sidebar h2 {
         margin: 0 0 .9em 0;
-        font-family: Georgia, "Times New Roman", serif;
+        font-family: "skolar-1", "skolar-2", Georgia, "Times New Roman", serif;
         font-size: 1.3em;
         line-height: 1.4;
         text-transform: uppercase;
@@ -775,7 +775,7 @@ h3#reply-title {
 #searchform input {
         width: 90%;
         padding: 6px;
-        font-family: Georgia, "Times New Roman", serif;
+        font-family: "skolar-1", "skolar-2", Georgia, "Times New Roman", serif;
         font-size: 13px;
         border-left: 1px solid #999;
         border-top: 1px solid #999;
@@ -1733,6 +1733,9 @@ img.alignnone {
     </div>
 
   </div>
+
+  <script type="text/javascript" src="http://use.typekit.com/bya0ksb.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 </body>
 </html>
