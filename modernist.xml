@@ -1764,7 +1764,8 @@ img.alignnone {
     <hr/>
 
     <div id='footer'>
-      <p>Proudly powered by <a href='http://www.blogger.com'>Blogger</a> and <a href='http://www.rodrigogalindez.com/themes/modernist/' title='Free WordPress theme'>Modernist</a>, a theme by <a href='http://www.rodrigogalindez.com' title='Web Designer'>Rodrigo Galindez</a>. Converted by <a href='http://www.tmwwtw.com' target='_blank' title='tmwwtw'>tmwwtw</a> for <a href='http://www.litethemes.com' target='_blank' title='LiteThemes.com'>LiteThemes.com</a>. <a expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' title='Syndicate this site using RSS'><acronym title='Really Simple Syndication'>RSS</acronym> Feed</a>.</p>
+      <p>Powered by <a href='http://www.blogger.com/'>Blogger</a>, <a href="http://typekit.com/colophons/bya0ksb" title='Typefaces used on peterjmag.blogspot.com | powered by Typekit'>Typekit</a> and a tweaked version of <a href='http://www.rodrigogalindez.com/themes/modernist/' title='Free WordPress theme'>Rodrigo Galindez's Modernist theme</a>. Tweaked template <a href='https://github.com/peterjmag/blogger-modernist'>open sourced on GitHub</a>.</p>
+      <p><a expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' title='Syndicate this site using RSS'>Subscribe via <acronym title='Really Simple Syndication'>RSS</acronym></a></p>
     </div>
 
   </div>
